@@ -1,0 +1,9 @@
+
+
+30 0 ** * python3 /home/jmorozco/python/Lizzi/scrap_CFE_HTML_abierto_1.0.py
+
+30 0 ** * python3 /home/jmorozco/python/Lizzi/scrap_CFE_HTML_simplificado_1.0.py
+
+30 0 ** * python3 /home/jmorozco/python/Lizzi/parse_CFE_Detail_1.0.py
+
+30 0 ** * python3 /home/jmorozco/python/Lizzi/mueve_htmls.py
